@@ -1,0 +1,25 @@
+/* Author: Gavin Reynolds */
+/* Credits: http://flatuicolors.com/ for the colour palette */
+
+#button{
+    border-radius: 2px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height:auto;
+    width:auto;
+    text-align:center;
+    float:left;
+    margin:5px;
+    text-transform:Uppercase;
+}
+.buttonTen {
+    background:#95a5a6; /* CONCRETE */
+    color: #fff;
+    border: solid 1px #7f8c8d; /* ASBESTOS */
+}
+.buttonTen:active {
+    background:#7f8c8d; /* ASBESTOS */
+}

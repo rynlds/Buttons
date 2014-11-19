@@ -1,0 +1,25 @@
+/* Author: Gavin Reynolds */
+/* Credits: http://flatuicolors.com/ for the colour palette */
+
+#button{
+    border-radius: 2px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height:auto;
+    width:auto;
+    text-align:center;
+    float:left;
+    margin:5px;
+    text-transform:Uppercase;
+}
+.buttonOne{
+    background:#1abc9c; /* TURQUOISE */
+    color: #fff;
+    border: solid 1px #16a085; /* GREEN SEA */
+}
+.buttonOne:active {
+    background:#16a085; /* GREEN SEA */
+}

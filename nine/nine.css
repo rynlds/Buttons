@@ -1,0 +1,25 @@
+/* Author: Gavin Reynolds */
+/* Credits: http://flatuicolors.com/ for the colour palette */
+
+#button{
+    border-radius: 2px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height:auto;
+    width:auto;
+    text-align:center;
+    float:left;
+    margin:5px;
+    text-transform:Uppercase;
+}
+.buttonNine {
+    background:#ecf0f1; /* CLOUDS */
+    color: #000;
+    border: solid 1px #bdc3c7; /* SILVER */
+}
+.buttonNine:active {
+    background:#bdc3c7; /* SILVER */
+}

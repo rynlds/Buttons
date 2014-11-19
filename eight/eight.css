@@ -1,0 +1,25 @@
+/* Author: Gavin Reynolds */
+/* Credits: http://flatuicolors.com/ for the colour palette */
+
+#button{
+    border-radius: 2px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    height:auto;
+    width:auto;
+    text-align:center;
+    float:left;
+    margin:5px;
+    text-transform:Uppercase;
+}
+.buttonEight {
+    background:#e74c3c; /* ALIZARIN */
+    color: #fff;
+    border: solid 1px #c0392b; /* POMEGRANATE */
+}
+.buttonEight:active {
+    background:#c0392b; /* POMEGRANATE */
+}
